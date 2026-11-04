@@ -1,0 +1,4 @@
+# Part 1 Python artifacts
+/part1/.venv/
+/part1/__pycache__/
+/part1/part1_response.json

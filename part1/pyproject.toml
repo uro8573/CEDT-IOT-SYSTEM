@@ -1,0 +1,6 @@
+[project]
+name = "iot-mqtt-lab1"
+version = "0.1.0"
+description = "Basic MQTT publisher and subscriber for IoT activity Part 1"
+requires-python = ">=3.9"
+dependencies = ["paho-mqtt>=2.1,<3"]
